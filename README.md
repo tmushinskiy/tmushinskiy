@@ -24,6 +24,7 @@ As a student in Cybersecurity and Information Assurance, I’m driven by a passi
 
 
 ## Tools
+
 ### Network  
 <div>  
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />  
@@ -33,30 +34,43 @@ As a student in Cybersecurity and Information Assurance, I’m driven by a passi
 
 ### Endpoint  
 <div>  
-    <img src="https://img.shields.io/badge/-Sysmon-239120?&style=for-the-badge&logo=Windows&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Sysmon-239120?&style=for-the-badge&logo=Windows&logoColor=white" />   
     <img src="https://img.shields.io/badge/-Windows_Event_Viewer-0078D7?&style=for-the-badge&logo=Windows&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Winlogbeat-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />  
 </div>  
 
 ### SIEM  
 <div>  
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-008080?&style=for-the-badge&logo=Wazuh&logoColor=white" />  
     <img src="https://img.shields.io/badge/-Security_Onion-4A90E2?&style=for-the-badge&logo=SecurityOnion&logoColor=white" />  
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Kibana-E8478B?&style=for-the-badge&logo=Kibana&logoColor=white" />  
 </div>  
 
 ### Automation & Scripting  
 <div>  
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />  
     <img src="https://img.shields.io/badge/-Jupyter-DA5B0B?&style=for-the-badge&logo=Jupyter&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Markdown-000000?&style=for-the-badge&logo=Markdown&logoColor=white" />  
 </div>  
 
 ### Threat Intelligence & Hunting  
 <div>  
-    <img src="https://img.shields.io/badge/-MITRE_ATT&CK-FF6600?&style=for-the-badge&logo=MITRE&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-VirusTotal-5EBD3E?&style=for-the-badge&logo=VirusTotal&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-MITRE_ATT&CK-FF6600?&style=for-the-badge&logo=MITRE&logoColor=white" />    
     <img src="https://img.shields.io/badge/-AbuseIPDB-FF5C5C?&style=for-the-badge&logo=AbuseIPDB&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-OTX_AlienVault-2D9AB0?&style=for-the-badge&logo=Alienware&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-YARA-FFA500?&style=for-the-badge&logo=OpenSearch&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-MISP-3A3A3A?&style=for-the-badge&logo=Matrix&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-CyberChef-4154F1?&style=for-the-badge&logo=Codeforces&logoColor=white" />  
 </div>  
+
+### Detection & Simulation  
+<div>  
+    <img src="https://img.shields.io/badge/-Sigma_Rules-6E4AFF?&style=for-the-badge&logo=Opsgenie&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Atomic_Red_Team-D1495B?&style=for-the-badge&logo=GitHub&logoColor=white" />  
+</div>  
+
 
 ## Certifications
 <div>
