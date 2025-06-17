@@ -11,10 +11,10 @@ As a student in Cybersecurity and Information Assurance, I’m driven by a passi
 
 | Skill                                      | Learned From Project           |
 |--------------------------------------------|-------------------------------|
-| SIEM Configuration and Management           | SOC Simulation Lab             |
-| Threat Detection and Alert Tuning            | SOC Simulation Lab, MITRE ATT&CK Detection Workbook |
-| Incident Triage and Investigation            | SOC Simulation Lab, Incident Report Case Study |
-| Malware and Attack Simulation                 | SOC Simulation Lab             |
+| SIEM Configuration and Management           | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>             |
+| Threat Detection and Alert Tuning            | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>, MITRE ATT&CK Detection Workbook |
+| Incident Triage and Investigation            | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>, Incident Report Case Study |
+| Malware and Attack Simulation                 | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>             |
 | MITRE ATT&CK Framework Application            | MITRE ATT&CK Detection Workbook |
 | Threat Hunting and Log Analysis               | Threat Hunting Lab             |
 | Incident Reporting and Communication          | Incident Report Case Study     |
@@ -73,7 +73,7 @@ As a student in Cybersecurity and Information Assurance, I’m driven by a passi
 
 ## Projects
 
-- SOC Simulation Lab  
+- <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>  
 - MITRE ATT&CK Detection Workbook  
 - Threat Hunting Lab  
 - Incident Report Case Study  
