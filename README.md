@@ -1,5 +1,5 @@
 # Hello, I'm Tim Mushinskiy
-<a href="www.linkedin.com/in/timothy-mushinskiy"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[www.linkedin.com/in/timothy-mushinskiy](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a student passionate about SOC analysis. I enjoy learning to detect threats, analyze logs, and make systems safer through hands-on experience.
 
