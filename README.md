@@ -13,11 +13,11 @@ As a student in Cybersecurity and Information Assurance, I’m driven by a passi
 |--------------------------------------------|-------------------------------|
 | SIEM Configuration and Management           | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>             |
 | Threat Detection and Alert Tuning            | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>, <a href="https://github.com/tmushinskiy/MITRE-ATT-CK-Detection-Workbook"/>MITRE ATT&CK Detection Workbook</a> |
-| Incident Triage and Investigation            | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>, Incident Report Case Study |
+| Incident Triage and Investigation            | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>, <a href="https://github.com/tmushinskiy/Incident-Report-Case-Study"/>Incident Report Case Study</a> |
 | Malware and Attack Simulation                 | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>             |
 | MITRE ATT&CK Framework Application            | <a href="https://github.com/tmushinskiy/MITRE-ATT-CK-Detection-Workbook"/>MITRE ATT&CK Detection Workbook</a> |
 | Threat Hunting and Log Analysis               | <a href="https://github.com/tmushinskiy/Threat-Hunting-Lab"/>Threat Hunting Lab</a>             |
-| Incident Reporting and Communication          | Incident Report Case Study     |
+| Incident Reporting and Communication          | <a href="https://github.com/tmushinskiy/Incident-Report-Case-Study"/>Incident Report Case Study</a>     |
 | Automation and Scripting (Python)              | Log Enrichment Script          |
 | Threat Intelligence Integration                 | Log Enrichment Script          |
 | Log Querying and Pivoting                        | <a href="https://github.com/tmushinskiy/Threat-Hunting-Lab"/>Threat Hunting Lab</a>             |
@@ -76,5 +76,5 @@ As a student in Cybersecurity and Information Assurance, I’m driven by a passi
 - <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>  
 - <a href="https://github.com/tmushinskiy/MITRE-ATT-CK-Detection-Workbook"/>MITRE ATT&CK Detection Workbook</a>  
 - <a href="https://github.com/tmushinskiy/Threat-Hunting-Lab"/>Threat Hunting Lab</a>  
-- Incident Report Case Study  
+- <a href="https://github.com/tmushinskiy/Incident-Report-Case-Study"/>Incident Report Case Study</a>  
 - Log Enrichment Script
