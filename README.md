@@ -12,10 +12,10 @@ As a student in Cybersecurity and Information Assurance, I’m driven by a passi
 | Skill                                      | Learned From Project           |
 |--------------------------------------------|-------------------------------|
 | SIEM Configuration and Management           | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>             |
-| Threat Detection and Alert Tuning            | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>, MITRE ATT&CK Detection Workbook |
+| Threat Detection and Alert Tuning            | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>, <a href="https://github.com/tmushinskiy/MITRE-ATT-CK-Detection-Workbook"/>MITRE ATT&CK Detection Workbook</a> |
 | Incident Triage and Investigation            | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>, Incident Report Case Study |
 | Malware and Attack Simulation                 | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>             |
-| MITRE ATT&CK Framework Application            | MITRE ATT&CK Detection Workbook |
+| MITRE ATT&CK Framework Application            | <a href="https://github.com/tmushinskiy/MITRE-ATT-CK-Detection-Workbook"/>MITRE ATT&CK Detection Workbook</a> |
 | Threat Hunting and Log Analysis               | Threat Hunting Lab             |
 | Incident Reporting and Communication          | Incident Report Case Study     |
 | Automation and Scripting (Python)              | Log Enrichment Script          |
@@ -74,7 +74,7 @@ As a student in Cybersecurity and Information Assurance, I’m driven by a passi
 ## Projects
 
 - <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>  
-- MITRE ATT&CK Detection Workbook  
+- <a href="https://github.com/tmushinskiy/MITRE-ATT-CK-Detection-Workbook"/>MITRE ATT&CK Detection Workbook</a>  
 - Threat Hunting Lab  
 - Incident Report Case Study  
 - Log Enrichment Script
