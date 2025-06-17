@@ -18,8 +18,8 @@ As a student in Cybersecurity and Information Assurance, I’m driven by a passi
 | MITRE ATT&CK Framework Application            | <a href="https://github.com/tmushinskiy/MITRE-ATT-CK-Detection-Workbook"/>MITRE ATT&CK Detection Workbook</a> |
 | Threat Hunting and Log Analysis               | <a href="https://github.com/tmushinskiy/Threat-Hunting-Lab"/>Threat Hunting Lab</a>             |
 | Incident Reporting and Communication          | <a href="https://github.com/tmushinskiy/Incident-Report-Case-Study"/>Incident Report Case Study</a>     |
-| Automation and Scripting (Python)              | Log Enrichment Script          |
-| Threat Intelligence Integration                 | Log Enrichment Script          |
+| Automation and Scripting (Python)              | <a href="https://github.com/tmushinskiy/Log-Enrichment-Script"/>Log Enrichment Script</a>          |
+| Threat Intelligence Integration                 | <a href="https://github.com/tmushinskiy/Log-Enrichment-Script"/>Log Enrichment Script</a>          |
 | Log Querying and Pivoting                        | <a href="https://github.com/tmushinskiy/Threat-Hunting-Lab"/>Threat Hunting Lab</a>             |
 
 
@@ -77,4 +77,4 @@ As a student in Cybersecurity and Information Assurance, I’m driven by a passi
 - <a href="https://github.com/tmushinskiy/MITRE-ATT-CK-Detection-Workbook"/>MITRE ATT&CK Detection Workbook</a>  
 - <a href="https://github.com/tmushinskiy/Threat-Hunting-Lab"/>Threat Hunting Lab</a>  
 - <a href="https://github.com/tmushinskiy/Incident-Report-Case-Study"/>Incident Report Case Study</a>  
-- Log Enrichment Script
+- <a href="https://github.com/tmushinskiy/Log-Enrichment-Script"/>Log Enrichment Script</a>
