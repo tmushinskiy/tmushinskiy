@@ -16,11 +16,11 @@ As a student in Cybersecurity and Information Assurance, I’m driven by a passi
 | Incident Triage and Investigation            | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>, Incident Report Case Study |
 | Malware and Attack Simulation                 | <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>             |
 | MITRE ATT&CK Framework Application            | <a href="https://github.com/tmushinskiy/MITRE-ATT-CK-Detection-Workbook"/>MITRE ATT&CK Detection Workbook</a> |
-| Threat Hunting and Log Analysis               | Threat Hunting Lab             |
+| Threat Hunting and Log Analysis               | <a href="https://github.com/tmushinskiy/Threat-Hunting-Lab"/>Threat Hunting Lab</a>             |
 | Incident Reporting and Communication          | Incident Report Case Study     |
 | Automation and Scripting (Python)              | Log Enrichment Script          |
 | Threat Intelligence Integration                 | Log Enrichment Script          |
-| Log Querying and Pivoting                        | Threat Hunting Lab             |
+| Log Querying and Pivoting                        | <a href="https://github.com/tmushinskiy/Threat-Hunting-Lab"/>Threat Hunting Lab</a>             |
 
 
 ## Tools
@@ -75,6 +75,6 @@ As a student in Cybersecurity and Information Assurance, I’m driven by a passi
 
 - <a href="https://github.com/tmushinskiy/SOC-Simulation-Lab/tree/main"/>SOC Simulation Lab</a>  
 - <a href="https://github.com/tmushinskiy/MITRE-ATT-CK-Detection-Workbook"/>MITRE ATT&CK Detection Workbook</a>  
-- Threat Hunting Lab  
+- <a href="https://github.com/tmushinskiy/Threat-Hunting-Lab"/>Threat Hunting Lab</a>  
 - Incident Report Case Study  
 - Log Enrichment Script
